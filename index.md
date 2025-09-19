@@ -7,15 +7,23 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+# **Nonhlanhla Sekhula**
+### **Data Analyst | Computer Science Graduate**
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I transform raw data into actionable insights, leveraging a strong foundation in Python, SQL, and PowerBI to drive process optimization and strategic decision-making. My passion lies in applying analytical expertise to build a sustainable future.
 
-PS: If you liked the theme, do star it on GitHub!
+**Python** | **SQL** | **PowerBI** | **Data Visualization** | **Machine Learning**
 
-### Also, check out:
+[View My Projects](/projects/){: .btn .btn-primary} [Download My Resume](/assets/documents/Nonhlanhla_Sekhula_Resume.pdf){: .btn}
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+---
+
+### **Featured Project**
+
+#### **[Global Energy Analysis](/projects/global-energy-analysis)**
+*Analyzed 30 years of World Bank data to visualize the global shift towards renewable energy and identify key market leaders.*
+
+**Tools:** Python (Pandas, Matplotlib), PowerBI, SQL
+
+[Explore the Dashboard](#){: .btn .btn-outline} <!-- Link to your live PowerBI report later -->
