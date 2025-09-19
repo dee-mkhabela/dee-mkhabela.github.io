@@ -15,7 +15,7 @@ I transform raw data into actionable insights, leveraging a strong foundation in
 
 **Python** | **SQL** | **PowerBI** | **Data Visualization** | **Machine Learning**
 
-[View My Projects](/projects/){: .btn .btn-primary} [Download My Resume](/assets/documents/Nonhlanhla_Sekhula_Resume.pdf){: .btn}
+[View My Projects](/projects/){: .btn .btn-primary} [Download My Curriculum Vitae](/assets/Nonhlanhla_Sekhula_CV.pdf){: .btn}
 
 ---
 
